@@ -15,7 +15,7 @@ The project covers real-world database operations such as table design, data ins
 ---
 
 ## Key Features
-- Relational database design for student, course, and performance data  
+- Relational database design 
 - Data filtering, sorting, and aggregation using SQL queries  
 - Use of advanced SQL concepts such as:
   - `GROUP BY`, `HAVING`
