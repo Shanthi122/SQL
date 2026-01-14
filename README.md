@@ -1,7 +1,7 @@
 # SQL Practice (MYSQL)
 
 ##  Overview
-This project is designed to practice and demonstrate SQL concepts using SQL Server. It focuses on managing and analyzing student-related data in a structured way, enabling efficient storage, querying, and reporting for better academic insights.
+This project is designed to practice and demonstrate SQL concepts using MYSQL. It focuses on managing and analyzing student-related data in a structured way, enabling efficient storage, querying, and reporting for better academic insights.
 
 The project covers real-world database operations such as table design, data insertion, aggregation, ranking, and performance analysis.
 
